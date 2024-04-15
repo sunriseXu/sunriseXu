@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 |N°| CVE 	| Severity 	| Description 	|
 |:--:	|:---:	|:--------:	|:-----------:	|
-|1 |   [CVE-2024-32005](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5)   	|      High     	|        NiceUI: Local File Inclusion in NiceUI leaflet component       	|
+|1 |   [CVE-2024-32005](https://github.com/zauberzeug/nicegui/security/advisories/GHSA-mwc7-64wg-pgvj)  	|      High     	|        NiceUI: Local File Inclusion in NiceUI leaflet component       	|
