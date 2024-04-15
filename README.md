@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|N°| CVE 	| Severity 	| Description 	|
+|:--:	|:---:	|:--------:	|:-----------:	|
+|1 |   [CVE-2024-32005](https://github.com/advisories/GHSA-6vcc-v9vw-g2x5)   	|      High     	|        NiceUI: Local File Inclusion in NiceUI leaflet component       	|
