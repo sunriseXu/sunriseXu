@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 |N°| CVE 	| Severity 	| Description 	|
 |:--:	|:---:	|:--------:	|:-----------:	|
 |1 |   [CVE-2024-32005](https://github.com/zauberzeug/nicegui/security/advisories/GHSA-mwc7-64wg-pgvj)  	|      High     	|        NiceGUI: Local File Inclusion in NiceGUI leaflet component       	|
+|2 |   [CVE-2024-5187](https://huntr.com/bounties/50235ebd-3410-4ada-b064-1a648e11237e)  	|      High     	|        Arbitrary File Overwrite in download_model_with_test_data in onnx/onnx       	|
