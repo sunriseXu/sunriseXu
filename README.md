@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 |2 |   [CVE-2024-5187](https://huntr.com/bounties/50235ebd-3410-4ada-b064-1a648e11237e)  	|      High     	|        Arbitrary File Overwrite in download_model_with_test_data in onnx/onnx       	|
 |3 |   [CVE-2024-39903](https://github.com/widgetti/solara/security/advisories/GHSA-9794-pc4r-438w)  	|      High     	|        Local File Inclusion (LFI) vulnerability in widgetti/solara       	|
 |4 |   [CVE-2024-21799](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01190.html)  	|      High     	|        Path traversal for some Intel® Extension for Transformers       	|
+|5 |   [CVE-2024-39766](https://huntr.com/bounties/69c7e0f6-c9de-4ae7-8441-b3bd0dd954a0)  	|      High     	|        OS Command Injection in neural_solution in intel/neural-compressor       	|
